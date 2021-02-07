@@ -1,4 +1,5 @@
 input.txt
 /target/
+private/
 **/*.rs.bk
 **/*~
